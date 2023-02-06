@@ -1,2 +1,2 @@
-# MyCaptain_Assignment
+# MyCaptain_Python_Assignment
 Python
